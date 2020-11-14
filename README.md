@@ -11,4 +11,4 @@ Welcome to my GitHub profile. For more information, go to [my website](https://m
 <img src="https://github-readme-stats.vercel.app/api?username=mudkipdev&show_icons=true">
 
 ### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudkipdev">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudkipdev&hide=html">
