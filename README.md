@@ -8,4 +8,4 @@ Welcome to my GitHub profile. For more information, go to [my website](https://m
 
 
 ### Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=Abb1x&show_icons=true&include_all_commits=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=mudkipdev&show_icons=true&theme=dracula">
