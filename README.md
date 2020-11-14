@@ -1,4 +1,3 @@
-# Hello!
 Welcome to my GitHub profile. For more information, go to [my website](https://mudkip.dev).
 
 ---
@@ -12,3 +11,12 @@ Welcome to my GitHub profile. For more information, go to [my website](https://m
 
 ### Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudkipdev&hide=html">
+
+### How do I make a README.md?
+1. Create a repository named `username/username` with `username` being your GitHub name.
+2. Check the "Add README" option.
+3. Edit the README.md file to edit the one on your profile.
+
+Some things that may help you:
+1: [GitHub Stats](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md)
+2: [GitHub Actions (links to a tutorial)](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
