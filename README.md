@@ -3,7 +3,7 @@ Welcome to my GitHub profile.
 ---
 
 ### Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=mudkipdev&show_icons=true">
+<details><img src="https://github-readme-stats.vercel.app/api?username=mudkipdev&show_icons=true"></details>
 
 ### Year Percentage (GitHub Actions)
 ```
