@@ -14,6 +14,6 @@ Welcome to my GitHub profile.
 </details>
 
 <h3>Year Percentage (GitHub Actions)</h1>
-<code>
+<pre><code>
 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 16.96%
-</code>
+</code></pre>
